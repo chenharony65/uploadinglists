@@ -39,6 +39,7 @@ The script will process each row from products.csv and:
 A short delay is added between API calls to respect rate limits.
 
 Important Notes
+
 This tool is for my personal shop only
 No other users can access or use it
 It does not auto-publish listings
