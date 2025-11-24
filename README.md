@@ -10,12 +10,12 @@ The purpose of the tool is to reduce repetitive manual work when creating and up
 
 The script reads product data from a **manually prepared CSV file** (`products.csv`) and performs two actions:
 
-### 1️⃣ Create **draft** listings
+### 1 Create **draft** listings
 - Sends product information (title, description, tags, price, materials, etc.) to the Etsy API  
 - All listings are created in **draft** state  
 - I always review and publish them manually inside Etsy
 
-### 2️⃣ Update existing listings
+### 2 Update existing listings
 - Can update titles, descriptions, tags, prices, or quantities  
 - Works only for listing IDs that I manually specify  
 - No auto-publishing or automated action without my input
